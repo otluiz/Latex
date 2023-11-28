@@ -1,0 +1,9 @@
+# Arquivos gerados pelo LaTeX
+*.aux
+*.log
+*.synctex.gz
+*.pdfsync
+
+# Arquivos temporários do LaTeX
+*.bak
+*.swp
